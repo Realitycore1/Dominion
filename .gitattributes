@@ -1,0 +1,40 @@
+# Normalize detected text files to LF in Git; use native checkout line endings.
+* text=auto
+
+# Vault notes, Obsidian data, and website source files.
+*.md text
+*.txt text
+*.json text
+*.jsonl text
+*.ajson text
+*.canvas text
+*.base text
+*.csv text
+*.js text
+*.css text
+*.html text
+.gitattributes text
+
+# Files that require a specific checkout line ending.
+*.sh text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.sln text eol=crlf
+
+# Binary assets must never undergo line-ending conversion.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.7z binary
+*.docx binary
+*.xlsx binary
+*.pptx binary
+*.mp3 binary
+*.mp4 binary
+*.woff binary
+*.woff2 binary
