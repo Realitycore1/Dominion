@@ -1,0 +1,27 @@
+---
+title: "Lunar Mines"
+tags:
+  - draft
+  - location
+  - tier-2
+  - pleroma-archive
+Status: DRAFT
+Category: Location
+Complexity: Tier 2
+Prerequisites:
+  - "[[Archive Index]]"
+  - "[[Locations Portal]]"
+Related Notes:
+  - "[[Locations Portal]]"
+  - "[[Regolith Mines]]"
+Recommended Reading:
+  - "[[Locations Portal]]"
+  - "[[Public Reader Path - Pleroma Archive]]"
+Last Reviewed: 2026-06-18
+---
+The lunar mines collect materials much the same as the [[Regolith Mines]] but with the goal of extracting metals.
+
+---
+
+> [!info] Original Vault Path
+> `I - Pleroma Archive/World/Locations/Eos Multiverse/The Dark Forest Zone/Local Cluster/Totum/Verse Structure/Superclusters/Laniakea/Milky Way Galaxy/Sol System/Earth (Terra)/2079-4000/Moon (Luna)/Lunar Mines.md`

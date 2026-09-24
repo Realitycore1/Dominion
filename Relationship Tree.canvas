@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"366814eb787434eb","type":"file","file":"New Readers Start Here/II - Companion Narratives/Syl'Cothan Dominion/Characters/Amber/Characters/Amber_Zohair.md","x":3,"y":40,"width":400,"height":400},
+		{"id":"acdfbd9565231d5e","type":"file","file":"New Readers Start Here/II - Companion Narratives/Syl'Cothan Dominion/Characters/Amber/Characters/Cathrine_Zohair.md","x":-294,"y":-520,"width":400,"height":400},
+		{"id":"9342c06f7fb09783","type":"file","file":"New Readers Start Here/II - Companion Narratives/Syl'Cothan Dominion/Characters/Amber/Characters/Armand_Zohair.md","x":306,"y":-520,"width":400,"height":400},
+		{"id":"1f445aa06a047264","type":"file","file":"New Readers Start Here/II - Companion Narratives/Syl'Cothan Dominion/Characters/Amber/Characters/Evelynn_Zohair.md","x":-880,"y":40,"width":400,"height":400},
+		{"id":"090b2bf4df68209e","type":"file","file":"New Readers Start Here/II - Companion Narratives/Syl'Cothan Dominion/Characters/Amber/Characters/Darius_Zohair.md","x":-440,"y":40,"width":400,"height":400},
+		{"id":"316ed987b83a02a1","type":"file","file":"New Readers Start Here/I - Pleroma Archive/Characters/Dominion/William Zohair.md","x":306,"y":-1120,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"621f2e8adb59f093","fromNode":"9342c06f7fb09783","fromSide":"left","toNode":"acdfbd9565231d5e","toSide":"right"},
+		{"id":"07352181f42ea284","fromNode":"acdfbd9565231d5e","fromSide":"bottom","toNode":"366814eb787434eb","toSide":"top"},
+		{"id":"e55eeafc0fd64f95","fromNode":"acdfbd9565231d5e","fromSide":"bottom","toNode":"090b2bf4df68209e","toSide":"top"},
+		{"id":"84be85456c16029b","fromNode":"acdfbd9565231d5e","fromSide":"bottom","toNode":"1f445aa06a047264","toSide":"top"},
+		{"id":"20a7c567571cb78b","fromNode":"316ed987b83a02a1","fromSide":"bottom","toNode":"9342c06f7fb09783","toSide":"top"}
+	]
+}
